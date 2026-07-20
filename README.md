@@ -249,3 +249,13 @@ This project is licensed under the terms specified in the **LICENSE** file.
 Our vision is to empower cities with intelligent, AI-driven decision support systems that transform urban planning into a proactive, sustainable, and climate-resilient process.
 
 By combining geospatial intelligence, machine learning, and optimization, we aim to build cooler, greener, and healthier cities for the future.
+
+---
+
+## 🏆 Hackathon
+
+Developed for:
+
+**BAH Hackathon – ISRO**
+
+Theme: AI/ML-based solutions for real-world challenges.
